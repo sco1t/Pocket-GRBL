@@ -1,0 +1,12 @@
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\bin\Release\Pocket GRBL WM6.exe
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\bin\Release\Pocket GRBL WM6.pdb
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\bin\Release\Pocket GRBL WM6.xml
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\obj\Release\Pocket_GRBL.Form1.resources
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\obj\Release\Pocket_GRBL.Form2.resources
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\obj\Release\Pocket_GRBL.Form3.resources
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\obj\Release\Pocket_GRBL.Resources.resources
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\obj\Release\Pocket GRBL WM6.vbproj.GenerateResource.Cache
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\obj\Release\Pocket GRBL WM6.exe
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\obj\Release\Pocket GRBL WM6.xml
+C:\Users\sco1t\Documents\Visual Studio 2008\Projects\Pocket GRBL WM6\Pocket GRBL WM6\obj\Release\Pocket GRBL WM6.pdb
